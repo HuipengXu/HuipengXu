@@ -2,6 +2,6 @@
 
 
 ### Some Stats About XuHuipeng (Public Only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuipengXu)](https://github.com/anuraghazra/github-readme-stats)
+![HuipengXu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuipengXu&show_icons=true&theme=radical)
 
 
